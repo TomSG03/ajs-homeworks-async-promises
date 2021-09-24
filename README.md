@@ -1,5 +1,5 @@
 # Продвинутый JavaScript: современные возможности языка
-## [Домашнее задание к лекции «Классы, наследование»](https://github.com/TomSG03/ajs-homeworks/tree/master/oop) - Задача Классы, наследование
+## [Домашнее задание к лекции «Классы, наследование»](https://github.com/TomSG03/ajs-homeworks/tree/master/oop) - Задача Методы
 - [x] [Классы, наследование](https://github.com/TomSG03/opp-class)
 - [x] Методы
 
