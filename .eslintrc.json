@@ -12,6 +12,7 @@
         "sourceType": "module"
     },
     "rules": {
+        "no-underscore-dangle": "off",
         "linebreak-style": 0,
         "no-unused-vars":"warn",
         "no-restricted-syntax": [
