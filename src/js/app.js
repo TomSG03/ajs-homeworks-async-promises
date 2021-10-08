@@ -1,12 +1,9 @@
-// import Daemon from './Daemon';
+import getBuffer from './getBuffer';
+import ArrayBufferConverter from './ArrayBufferConverter';
 
-// const daemon = new Daemon('Jeck');
+const buffer = new ArrayBufferConverter();
+buffer.load(getBuffer());
 
-// daemon.stoned = true;
-// daemon.distance = 2;
-// daemon.attack = 100;
+console.log(buffer.buffer16BitView);
 
-// console.log(daemon.attack);
-
-// daemon.stoned = false;
-// console.log(daemon.attack);
+console.log(buffer.toString());
