@@ -1,9 +1,6 @@
-// import getBuffer from './getBuffer';
-// import ArrayBufferConverter from './ArrayBufferConverter';
+import GameSavingLoader from './GameSavingLoader';
+import GameSaving from './GameSaving';
 
-// const buffer = new ArrayBufferConverter();
-// buffer.load(getBuffer());
-
-// console.log(buffer.buffer16BitView);
-
-// console.log(buffer.toString());
+GameSavingLoader.load().then((saving) => {
+  console.log(new GameSaving(saving));
+});

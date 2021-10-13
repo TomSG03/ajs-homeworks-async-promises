@@ -1,7 +1,7 @@
 # Продвинутый JavaScript: современные возможности языка
-## [Домашнее задание к лекции «ArrayBuffer»](https://github.com/TomSG03/ajs-homeworks/tree/master/arraybuffer) - Задача ArrayBuffer
-- [x] [Math](https://github.com/TomSG03/ajs-homeworks-arraybuffer-math)
-- [x] ArrayBuffer
+## [Домашнее задание к лекции Promises, async/await](https://github.com/TomSG03/ajs-homeworks/tree/master/async) - Задача Promises
+- [x] Promises
+- [x] [async/await](https://github.com/TomSG03/ajs-homeworks-async-async_await)
 
 ---
 [Спискок задач](https://github.com/TomSG03/ajs-homeworks-list)

@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TomSG03/ajs-homeworks-arraybuffer-ArrayBuffer.git"
+    "url": "git+https://github.com/TomSG03/ajs-homeworks-async-promises.git"
   },
   "keywords": [
     "game"
@@ -25,9 +25,9 @@
   "author": "Tomilov Sergey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TomSG03/ajs-homeworks-arraybuffer-ArrayBuffer/issues"
+    "url": "https://github.com/TomSG03/ajs-homeworks-async-promises/issues"
   },
-  "homepage": "https://github.com/TomSG03/ajs-homeworks-arraybuffer-ArrayBuffer#readme",
+  "homepage": "https://github.com/TomSG03/ajs-homeworks-async-promises#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.4",
     "@babel/core": "^7.15.5",
